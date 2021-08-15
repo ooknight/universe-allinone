@@ -7,3 +7,6 @@
 [submodule "universe-support-plugins"]
 	path = universe-support-plugins
 	url = git@github.com:ooknight/universe-support-plugins.git
+[submodule "universe-platform"]
+	path = universe-platform
+	url = git@github.com:ooknight/universe-platform.git
