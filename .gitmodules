@@ -1,0 +1,9 @@
+[submodule "universe-bom"]
+	path = universe-bom
+	url = git@github.com:ooknight/universe-bom.git
+[submodule "universe-ui"]
+	path = universe-ui
+	url = git@github.com:ooknight/universe-ui.git
+[submodule "universe-support-plugins"]
+	path = universe-support-plugins
+	url = git@github.com:ooknight/universe-support-plugins.git
