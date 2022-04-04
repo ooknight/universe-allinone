@@ -1,12 +1,12 @@
 [submodule "universe-bom"]
 	path = universe-bom
-	url = git@github.com:ooknight/universe-bom.git
-[submodule "universe-platform"]
-	path = universe-platform
-	url = git@github.com:ooknight/universe-platform.git
-[submodule "universe-sample"]
-	path = universe-sample
-	url = git@github.com:ooknight/universe-sample.git
+	url = https://github.com/ooknight/universe-bom.git
 [submodule "universe-support-plugins"]
     path = universe-support-plugins
-    url = git@github.com:ooknight/universe-support-plugins.git
+    url = https://github.com/ooknight/universe-support-plugins.git
+[submodule "universe-platform"]
+	path = universe-platform
+	url = https://github.com/ooknight/universe-platform.git
+[submodule "universe-sample"]
+	path = universe-sample
+	url = https://github.com/ooknight/universe-sample.git
